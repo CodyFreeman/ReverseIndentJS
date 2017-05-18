@@ -1,5 +1,5 @@
 # ReverseIndent JS Port
-Javascript application to reverse the indentation of a file. Ported from PHP.
+Javascript application to reverse the indentation of a string. Ported from PHP.
 
 ## Usage
 Create a new ReverseIndent object:
